@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Gupta</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Smartpharma360 and Pillplus**
+- 🔭 I’m currently working on **Smartpharma360**
 
 - 💬 Ask me about **React**
 
